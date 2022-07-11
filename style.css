@@ -132,7 +132,24 @@ a {
     padding: 20px;
     color: black;
     font-size: 20px;
-
  }
 
+ .sectionfooter {
+    justify-content: center;
+    background-color: #23272a;
+    height: 800px;
+ }
+
+ .footer1 {
+    border: 2px red solid;
+ }
+
+ .footer2 {
+    border: 2px red solid;
+    flex-direction: column;
+ }
+
+ .flex .linktesto {
+flex-direction: column;
+ }
 
