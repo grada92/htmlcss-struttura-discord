@@ -52,7 +52,6 @@ a {
 
 .header2 {
     background-color: #31e071;
-    height: 500px;
     flex-basis: 100%;
     justify-content: center;
     text-align: center;
@@ -78,7 +77,6 @@ a {
     margin: -60px;
     justify-content: center;
     gap: 40px;
-    margin: -150px;
     display: flex;
     ;
  }
