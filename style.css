@@ -51,7 +51,6 @@ a {
 }
 
 .header2 {
-    background-color: #31e071;
     flex-basis: 100%;
     justify-content: center;
     text-align: center;
@@ -95,6 +94,20 @@ a {
     border-radius: 30px;
     padding: 20px;
     font-size: 20px;
+ }
+
+ .section1 {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 200px;
+    margin: 100px;
+ }
+
+ .corpotesto {
+    border: 1px red solid;
+    flex-direction: column;
+    flex-grow: 0;
  }
 
 
