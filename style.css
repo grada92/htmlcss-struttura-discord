@@ -28,7 +28,6 @@ body{
     border: 2px rgb(193, 19, 19) solid;
     color: white;
     height: 100px;
-    flex-basis: 100%;
     justify-content: space-around;
     align-items: center;
     margin: 0px 100px
@@ -116,6 +115,15 @@ a {
  p {
     font-size: 20px;
     font-family: sans-serif;
+ }
+
+ .corpotesto2 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    
  }
 
 
