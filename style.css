@@ -164,5 +164,6 @@ gap: 40px;
  .footer2 {
     border-top: 3px white solid;
     margin: 0 80px;
+    justify-content: space-between;
  }
 
