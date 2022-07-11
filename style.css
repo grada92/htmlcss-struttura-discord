@@ -54,10 +54,11 @@ a {
     padding: 200px;
     color: white;
     margin: 0 210px;
-
+    display: inlines
 }
  .containerheader2 {
     background-color: blanchedalmond;
+    display: flex;
  }
 
 
@@ -66,5 +67,25 @@ a {
     padding-top: 30px;
  }
 
+ .button2 {
+    text-align: center;
+    margin: -60px;
+    justify-content: center;
+    gap: 40px;
+ }
+
+ #buttonmac {
+   background-color: white;
+   border-radius: 30px;
+   padding: 20px;
+   color: black;
+ }
+
+ #buttonbrowser {
+    background-color: #23272a;
+    color: white;
+    border-radius: 30px;
+    padding: 20px;
+ }
 
 
