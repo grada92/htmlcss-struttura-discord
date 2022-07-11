@@ -23,9 +23,14 @@
     flex-direction: row;
     border: 2px rgb(193, 19, 19) solid;
     color: white;
-    height: 50px;
+    height: 100px;
     flex-basis: 100%;
     justify-content: space-around;
     align-items: center;
+    margin: 0px 100px
+}
+
+.flex .menu {
+   gap: 50px;
 }
 
