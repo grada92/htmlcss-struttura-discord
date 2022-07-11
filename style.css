@@ -6,15 +6,13 @@
     box-sizing: border-box;
 }
 
-
+/* Content */
 .flex {
     display: flex;
 }
 
 .containerheader {
     background-color: #3161e0;
-    flex-basis: 500px;
-    height: 500px;
 }
 
 .header1 {
@@ -39,3 +37,29 @@ a {
     color: white;
     text-decoration: none;
 }
+
+#button1 {
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px;
+    color: black;
+}
+
+.header2 {
+    background-color: #31e071;
+    height: 500px;
+    flex-basis: 100%;
+    justify-content: center;
+    text-align: center;
+    padding: 200px;
+    color: white;
+    margin: 0 210px;
+
+}
+ .containerheader2 {
+    background-color: blanchedalmond;
+ }
+
+
+}
+
