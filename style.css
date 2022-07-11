@@ -7,12 +7,17 @@
 }
 
 /* Content */
+
+body{
+    font-family: sans-serif;
+}
 .flex {
     display: flex;
 }
 
 .containerheader {
     background-color: #3161e0;
+    height: auto;
 }
 
 .header1 {
@@ -51,14 +56,15 @@ a {
     flex-basis: 100%;
     justify-content: center;
     text-align: center;
-    padding: 200px;
+    padding: 110px;
     color: white;
     margin: 0 210px;
     display: inlines
 }
  .containerheader2 {
     background-color: blanchedalmond;
-    display: flex;
+    height: auto;
+    height: 500px;
  }
 
 
@@ -72,6 +78,9 @@ a {
     margin: -60px;
     justify-content: center;
     gap: 40px;
+    margin: -150px;
+    display: flex;
+    ;
  }
 
  #buttonmac {
@@ -79,6 +88,7 @@ a {
    border-radius: 30px;
    padding: 20px;
    color: black;
+   font-size: 20px;
  }
 
  #buttonbrowser {
@@ -86,6 +96,7 @@ a {
     color: white;
     border-radius: 30px;
     padding: 20px;
+    font-size: 20px;
  }
 
 
