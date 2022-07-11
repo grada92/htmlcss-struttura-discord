@@ -141,12 +141,8 @@ a {
     padding: 40px;
  }
 
- .footer1 {
-    border: 2px red solid;
-    padding: 70px;
- }
 
- .footer2 {
+ .footer1 {
     border: 2px red solid;
     flex-direction: column;
     padding: 70px;
@@ -155,5 +151,18 @@ a {
  .flex .linktesto {
 flex-direction: column;
 gap: 40px;
+ }
+
+ .footer1 h2 {
+    color: #7289da;
+ }
+
+ .sectionfooter2 {
+    background-color: #23272a;
+ }
+
+ .footer2 {
+    border-top: 3px white solid;
+    margin: 0 80px;
  }
 
