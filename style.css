@@ -16,3 +16,16 @@
     height: 500px;
 }
 
+.header1 {
+    flex-wrap: nowrap;
+    background-color: #3161e0;
+    flex-basis: 50px;
+    flex-direction: row;
+    border: 2px rgb(193, 19, 19) solid;
+    color: white;
+    height: 50px;
+    flex-basis: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
