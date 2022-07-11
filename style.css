@@ -1,5 +1,18 @@
+/* Generics */
+
 * {
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
 }
+
+.flex {
+    display: flex;
+}
+
+.containerheader {
+    background-color: #3161e0;
+    flex-basis: 500px;
+    height: 500px;
+}
+
