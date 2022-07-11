@@ -147,6 +147,7 @@ a {
  .footer2 {
     border: 2px red solid;
     flex-direction: column;
+    padding: 100px;
  }
 
  .flex .linktesto {
