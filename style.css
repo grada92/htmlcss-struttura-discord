@@ -6,6 +6,7 @@
     box-sizing: border-box;
 }
 
+
 .flex {
     display: flex;
 }
@@ -34,3 +35,7 @@
    gap: 50px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
