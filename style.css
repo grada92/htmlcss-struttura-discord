@@ -138,19 +138,22 @@ a {
     justify-content: center;
     background-color: #23272a;
     height: 800px;
+    padding: 40px;
  }
 
  .footer1 {
     border: 2px red solid;
+    padding: 70px;
  }
 
  .footer2 {
     border: 2px red solid;
     flex-direction: column;
-    padding: 100px;
+    padding: 70px;
  }
 
  .flex .linktesto {
 flex-direction: column;
+gap: 40px;
  }
 
